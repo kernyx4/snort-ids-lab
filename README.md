@@ -26,7 +26,7 @@ Le laboratoire repose sur deux machines situées sur le même sous-réseau (`192
 ## 🎯 Scénarios d'Attaque & Règles Snort (`local.rules`)
 
 Les règles suivantes ont été intégrées dans `/etc/snort/rules/local.rules` :
-
+```snort
 # 1. Détection de Ping (ICMP)
 alert icmp any any -> $HOME_NET any (msg:"ICMP PING detected"; sid:1000001; rev:1;)
 
