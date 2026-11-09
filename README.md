@@ -81,12 +81,8 @@ sudo snort -A console -q -c /etc/snort/snort.conf -i ens33 -l /var/log/snort
 ## 📄 Documentation
 
 Le rapport de travaux pratiques complet est disponible au format PDF dans le dossier `docs/` :
-📄 **[Télécharger le rapport complet (PDF)](https://www.google.com/search?q=docs/Rapport_Snort_Lab.pdf)**
+📄 **[Consulter le rapport complet (PDF)](docs/Rapport_Snort_Lab.pdf)**
 
 ---
 
 ✍️ **Auteur :** Hawa Kane (Orange Digital Center - Novembre 2026)
-2. Colle le bloc de texte ci-dessus.
-3. Enregistre (`Ctrl + S`) et ferme le fichier.
-
-Ensuite, une fois le rapport PDF copié dans `docs/`, tu pourras faire ton `git add .`, `git commit -m "..."` et `git push` !
