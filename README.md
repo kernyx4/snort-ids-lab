@@ -85,4 +85,4 @@ Le rapport de travaux pratiques complet est disponible au format PDF dans le dos
 
 ---
 
-✍️ **Auteur :** Hawa Kane (Orange Digital Center - Novembre 2026)
+✍️ **Auteure :** Hawa KANE (Orange Digital Center - Novembre 2026)
