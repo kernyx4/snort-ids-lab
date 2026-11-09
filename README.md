@@ -86,19 +86,6 @@ Le rapport de travaux pratiques complet est disponible au format PDF dans le dos
 ---
 
 ✍️ **Auteur :** Hawa Kane (Orange Digital Center - Novembre 2026)
-
-```
-
----
-
-### Comment le remplir facilement :
-
-1. Dans ton PowerShell (dans le dossier `snort-ids-lab`), tape :
-   ```powershell
-   notepad README.md
-
-```
-
 2. Colle le bloc de texte ci-dessus.
 3. Enregistre (`Ctrl + S`) et ferme le fichier.
 
